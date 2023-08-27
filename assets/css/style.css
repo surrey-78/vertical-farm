@@ -1,0 +1,106 @@
+.container{
+    background-color: black;
+    height: 200px;
+    width: 50vw;
+    margin: 15px;
+    padding: 20px;
+    color: white;
+}
+
+body{
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+}   
+
+header{
+    background-color: black;
+    color:#fff;
+    margin: 15px;
+    align-items: baseline;
+}
+
+#project-card{
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    margin: 2px;
+}
+
+#side-button-icon{
+    height: 5vw;
+    width: 5vw;
+    position: relative;
+    top: 1vh;
+}
+
+.text-align {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    padding-top: 10px;
+    
+}
+
+.flex-row{
+    display: flex;
+    flex-flow: row;
+}
+
+#centre-align{
+    padding-left: 10vh;
+}
+
+button{
+    width: 18vh;
+    background-color: black;
+    color:#fff;
+    height: 6vh;
+    border: 1px solid yellow;
+    border-radius: 20px;
+    border-color: yellow;
+    cursor:pointer;
+}
+.startAFree{
+    position: relative;
+    left: 45px;
+    padding: 10px;
+    margin: 5px;
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+}
+
+p{
+    font-size: 50px;
+    color: white;
+    padding-left: 20px;
+}
+
+.image-size{
+    height: 60vh;
+    width: 40vw;
+}
+
+.fill{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+.icon-size{
+    height: 60px;
+    width: 60px;
+}
+
+.text-adjust{
+    font-size: 20px;
+}
+
+#bottom-align{
+    align-items: end;
+}
